@@ -545,12 +545,3 @@ This closely resembles modern AI systems used in:
 - Financial Advisory Platforms
 
 ---
-
-# Author
-
-Emad
-
-Enterprise Financial Risk Intelligence Platform
-
-Built using:
-Python • Streamlit • Qdrant • Hybrid Search • Cross Encoder Reranking • OpenRouter • Financial RAG
